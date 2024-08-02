@@ -34,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="/icons/onshape.png" height="40" alt="onshape logo"  />
 </div>
 
 ###
