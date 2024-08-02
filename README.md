@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="/icons/onshapeSVG.svg.svg" height="40" alt="onshape logo"  />
+  <img src="/icons/onshapeSVG.svg" height="40" alt="onshape logo"  />
 </div>
 
 ###
