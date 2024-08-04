@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">👨🏻‍💻 - First touch with coding in Summer 2022<br>🏫 - Favourite subjects: Informatic, Maths, Physic<br>📱 - I like to design digital UI and make it real<br>⌨️ - Learned 10 Finger writing<br>🛠️ - DIY Projects (3D printing, wood working)<br>🎲 - Fun Fact's: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎• Mac Address spoofed myself with friends in school Wi-Fi<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  Built my own Pool Table<br>💭 - Use your knowledge to make your life easier<br>🇩🇪 - Native<br>🇬🇧 - Learning since 2014</p>
+<p align="left">👨🏻‍💻 - First touch with coding in Summer 2022<br>🏫 - Favourite subjects: Informatic, Maths, Physic<br>📱 - I like to design digital UI and make it real<br>⌨️ - Learned 10 Finger writing<br>🛠️ - DIY Projects (3D printing, wood working)<br>🎲 - Fun Fact's: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎• Gained access to the school Wi-Fi via MAC spoofing<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  Built my own Pool Table<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  I have over 64h type time on monkeytype<br>💭 - Use your knowledge to make your life easier<br>🇩🇪 - Native<br>🇬🇧 - Learning since 2014</p>
 
 ###
 
-<h2 align="left">I've coded with ...</h2>
+<h2 align="left">I've worked with ...</h2>
 
 ###
 
