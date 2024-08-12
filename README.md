@@ -33,9 +33,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="/icons/msgraphSVG.svg" height="40" alt="msgraph logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="/icons/onshapeSVG.svg" height="40" alt="onshape logo"  />
+
 </div>
 
 ###
