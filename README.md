@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 - First touch with coding in Summer 2022<br>🏫 - Favourite subjects: Computer Science, Maths, Physic<br>📱 - I like to design digital UI and make it real<br>⌨️ - Learned 10 Finger writing<br>🛠️ - DIY Projects (3D printing, wood working)<br>🎲 - Fun Fact's: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎• Gained access to the school Wi-Fi via MAC spoofing<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  Built my own Pool Table<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  I have over 64h type time on monkeytype<br>💭 - Use your knowledge to make your life easier<br>🇩🇪 - Native<br>🇬🇧 - Learning since 2014</p>
+<p align="left">👨🏻‍💻 - First touch with coding in Summer 2022<br>🏫 - Favourite subjects: Computer Science, Maths, Physic<br>📱 - I like to design digital UI and make it real<br>⌨️ - Learned 10 Finger writing<br>🛠️ - DIY Projects (3D printing, wood working)<br>🎲 - Fun Fact's: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎• Discovered Mac Spoofing (Useful in school)<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  Built my own Pool Table<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  I have over 67h type time on monkeytype<br>💭 - Use your knowledge to make your life easier<br>🇩🇪 - Native<br>🇬🇧 - Learning since 2014</p>
 
 ###
 
@@ -48,7 +48,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RolandDaum&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RolandDaum&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
 </div>
 
 ###
