@@ -1,8 +1,8 @@
-<h1 align="left">Idea ⮕ planing ⮕ creating</h1>
+<h1 align="left">Idea ⮕ Plan ⮕ Creation</h1>
 
 ###
 
-<p align="left">Hey, I'm Roland, 18 years old from Germany and currently in my final year of school.</p>
+<p align="left">Hey, I'm Roland from Germany, I'm 18 years old  and currently in my final year of school.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 - First touch with coding in Summer 2022<br>🏫 - Favourite subjects: Computer Science, Maths, Physic<br>📱 - I like to design digital UI and make it real<br>⌨️ - Learned 10 Finger writing<br>🛠️ - DIY Projects (3D printing, wood working)<br>🎲 - Fun Fact's: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎• Discovered Mac Spoofing (Useful in school)<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  Built my own Pool Table<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  I have over 67h type time on monkeytype<br>💭 - Use your knowledge to make your life easier<br>🇩🇪 - Native<br>🇬🇧 - Learning since 2014</p>
+<p align="left">👨🏻‍💻 - Came in touch with coding in summer 2022<br>🏫 - Favourite subjects: Computer Science, Maths, Physic<br>📱 - I like to design digital UI and make it real<br>⌨️ - Learned 10 finger typing<br>🛠️ - DIY projects (3D printing, wood working)<br>🎲 - Fun Facts: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎• Discovered Mac spoofing (useful in school)<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  Built my own pool table<br>‎ ‎ ‎ ‎ ‎ ‎ ‎•  I have over 67h type time on monkeytype<br>💭 - Use your knowledge to make your life easier<br>🇩🇪 - Native<br>🇬🇧 - Learning since 2014</p>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Learned Java in school, rest is Self-taught with Google and Chat-GPT</p>
+<p align="left">Learned Java in school, rest is self-taught with Google and Chat-GPT</p>
 
 ###
 
